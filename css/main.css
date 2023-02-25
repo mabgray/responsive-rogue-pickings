@@ -126,7 +126,7 @@ header nav ul li a {
 .section-three {
 	box-sizing: border-box;
 
-	padding: 0 40px;
+	
 }
 
 .section-one {
@@ -135,8 +135,8 @@ header nav ul li a {
 
 .section-two {
 	width: 100%;
-	border-left: 5px solid #EEE;
-	border-right: 5px solid #EEE;
+	border-top: 5px solid #EEE;
+	border-bottom: 5px solid #EEE;
 }
 
 .section-three {
@@ -160,8 +160,10 @@ header nav ul li a {
 
 /******** FOOTER STYLES ********/
 /* The widths are in a percentage! */
+
+
 footer {
-	text-align: center;
+	
 	margin-top: 8px;
 	display:flex;
 	justify-content: center;
